@@ -39,3 +39,16 @@ text exactly when using it as an index key.
 
 MIT. See `LICENSE`.
 
+## Citation
+
+If you use this repository in academic work, please cite it as:
+
+```bibtex
+@software{topologicalknotindexer_homfly_pt_polynomial_list,
+  author = {{TopologicalKnotIndexer contributors}},
+  title = {{HOMFLY-PT-polynomial-list}},
+  year = {2026},
+  url = {https://github.com/TopologicalKnotIndexer/HOMFLY-PT-polynomial-list}
+}
+```
+
